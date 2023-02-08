@@ -1,0 +1,13 @@
+POST http://localhost:3000/show_times
+Content-Type: application/json
+
+{
+  "Id": 1,
+  "time": "cascsac",
+  "hours": 2,
+  "minute": 10,
+  "type": "2D",
+  "movieId": "ascascasc",
+  "cinemaId": "ascas87cac",
+  "date": "ascascasc"
+}

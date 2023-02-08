@@ -1,0 +1,1464 @@
+{
+  "users": [
+    {
+      "username": "Khanhdaica",
+      "email": "khanhdaica@gmail.com",
+      "phone": "0376658437",
+      "password": "e12931b15e5d17d1b458b4f5fbd825591565799a",
+      "birthday": "2012-01-27T17:00:00.000Z",
+      "time": 1327683600000,
+      "avatar": "file:///var/mobile/Containers/Data/Application/42F81535-A69C-4921-BD4F-774AB239829E/Library/Caches/ExponentExperienceData/%2540anonymous%252Fkan_movie-5649c6d6-a335-42f2-a436-2a44b833290c/ImagePicker/AD01B056-9C88-4B6B-841D-23DA9918E85E.jpg",
+      "id": "71d5b84b-9ff3-40ec-87b4-a2366ce19293",
+      "createdAt": 1669522923674
+    },
+    {
+      "username": "Khamhdaica1212",
+      "email": "dangkhanh.dev@gmail.col",
+      "phone": "0376658438",
+      "password": "e12931b15e5d17d1b458b4f5fbd825591565799a",
+      "birthday": "Tue Jan 31 2012 00:00:00 GMT+0700 (+07)",
+      "time": 1327942800000,
+      "avatar": "file:///var/mobile/Containers/Data/Application/42F81535-A69C-4921-BD4F-774AB239829E/Library/Caches/ExponentExperienceData/%2540anonymous%252Fkan_movie-5649c6d6-a335-42f2-a436-2a44b833290c/ImagePicker/28D7FB9A-EF1B-483A-8F5D-2FF2866809A1.jpg",
+      "id": "00c603fa-2918-4369-889b-37c36581826f",
+      "createdAt": 1669523540509
+    }
+  ],
+  "cinema": [
+    {
+      "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+      "name": "Galaxy Cinema",
+      "seats": [
+        {
+          "name": "A",
+          "seats": 3
+        },
+        {
+          "name": "B",
+          "seats": 8
+        },
+        {
+          "name": "C",
+          "seats": 6
+        },
+        {
+          "name": "D",
+          "seats": 8
+        },
+        {
+          "name": "E",
+          "seats": 8
+        },
+        {
+          "name": "F",
+          "seats": 6
+        },
+        {
+          "name": "G",
+          "seats": 9
+        },
+        {
+          "name": "H",
+          "seats": 12
+        },
+        {
+          "name": "I",
+          "seats": 9
+        },
+        {
+          "name": "K",
+          "seats": 9
+        },
+        {
+          "name": "M",
+          "seats": 12
+        },
+        {
+          "name": "L",
+          "seats": 9
+        }
+      ]
+    },
+    {
+      "id": "e000e511-30cc-44b5-942f-89216663e49e",
+      "name": "Lotte Cinema",
+      "seats": [
+        {
+          "name": "A",
+          "seats": 3
+        },
+        {
+          "name": "B",
+          "seats": 8
+        },
+        {
+          "name": "C",
+          "seats": 6
+        },
+        {
+          "name": "D",
+          "seats": 8
+        },
+        {
+          "name": "E",
+          "seats": 8
+        },
+        {
+          "name": "F",
+          "seats": 6
+        },
+        {
+          "name": "G",
+          "seats": 9
+        },
+        {
+          "name": "H",
+          "seats": 12
+        },
+        {
+          "name": "I",
+          "seats": 9
+        },
+        {
+          "name": "K",
+          "seats": 9
+        },
+        {
+          "name": "M",
+          "seats": 12
+        },
+        {
+          "name": "L",
+          "seats": 9
+        }
+      ]
+    },
+    {
+      "id": "27ca30af-3fc6-4fd1-b595-a645b972947a",
+      "name": "Cinema 1-5",
+      "seats": [
+        {
+          "name": "A",
+          "seats": 3
+        },
+        {
+          "name": "B",
+          "seats": 8
+        },
+        {
+          "name": "C",
+          "seats": 6
+        },
+        {
+          "name": "D",
+          "seats": 8
+        },
+        {
+          "name": "E",
+          "seats": 8
+        },
+        {
+          "name": "F",
+          "seats": 6
+        },
+        {
+          "name": "G",
+          "seats": 9
+        },
+        {
+          "name": "H",
+          "seats": 12
+        },
+        {
+          "name": "I",
+          "seats": 9
+        },
+        {
+          "name": "K",
+          "seats": 9
+        },
+        {
+          "name": "M",
+          "seats": 12
+        },
+        {
+          "name": "L",
+          "seats": 9
+        }
+      ]
+    },
+    {
+      "id": "c8f56cd3-4643-4cd9-ac22-e69305be77fd",
+      "name": "Venus Cinema",
+      "seats": [
+        {
+          "name": "A",
+          "seats": 3
+        },
+        {
+          "name": "B",
+          "seats": 8
+        },
+        {
+          "name": "C",
+          "seats": 6
+        },
+        {
+          "name": "D",
+          "seats": 8
+        },
+        {
+          "name": "E",
+          "seats": 8
+        },
+        {
+          "name": "F",
+          "seats": 6
+        },
+        {
+          "name": "G",
+          "seats": 9
+        },
+        {
+          "name": "H",
+          "seats": 12
+        },
+        {
+          "name": "I",
+          "seats": 9
+        },
+        {
+          "name": "K",
+          "seats": 9
+        },
+        {
+          "name": "M",
+          "seats": 12
+        },
+        {
+          "name": "L",
+          "seats": 9
+        }
+      ]
+    },
+    {
+      "id": "06d28285-7265-474d-8d8d-b73fa13f8295",
+      "name": "Coffee Cinema",
+      "seats": [
+        {
+          "name": "A",
+          "seats": 3
+        },
+        {
+          "name": "B",
+          "seats": 8
+        },
+        {
+          "name": "C",
+          "seats": 6
+        },
+        {
+          "name": "D",
+          "seats": 8
+        },
+        {
+          "name": "E",
+          "seats": 8
+        },
+        {
+          "name": "F",
+          "seats": 6
+        },
+        {
+          "name": "G",
+          "seats": 9
+        },
+        {
+          "name": "H",
+          "seats": 12
+        },
+        {
+          "name": "I",
+          "seats": 9
+        },
+        {
+          "name": "K",
+          "seats": 9
+        },
+        {
+          "name": "M",
+          "seats": 12
+        },
+        {
+          "name": "L",
+          "seats": 9
+        }
+      ]
+    },
+    {
+      "id": "dfb09ab3-3220-4607-8481-8df4131638e9",
+      "name": "CGV Plaza",
+      "seats": [
+        {
+          "name": "A",
+          "seats": 3
+        },
+        {
+          "name": "B",
+          "seats": 8
+        },
+        {
+          "name": "C",
+          "seats": 6
+        },
+        {
+          "name": "D",
+          "seats": 8
+        },
+        {
+          "name": "E",
+          "seats": 8
+        },
+        {
+          "name": "F",
+          "seats": 6
+        },
+        {
+          "name": "G",
+          "seats": 9
+        },
+        {
+          "name": "H",
+          "seats": 12
+        },
+        {
+          "name": "I",
+          "seats": 9
+        },
+        {
+          "name": "K",
+          "seats": 9
+        },
+        {
+          "name": "M",
+          "seats": 12
+        },
+        {
+          "name": "L",
+          "seats": 9
+        }
+      ]
+    },
+    {
+      "id": "b27cff98-dd55-478d-b80e-183f6be72cd5",
+      "name": "Aki Coffee Film",
+      "seats": [
+        {
+          "name": "A",
+          "seats": 3
+        },
+        {
+          "name": "B",
+          "seats": 8
+        },
+        {
+          "name": "C",
+          "seats": 6
+        },
+        {
+          "name": "D",
+          "seats": 8
+        },
+        {
+          "name": "E",
+          "seats": 8
+        },
+        {
+          "name": "F",
+          "seats": 6
+        },
+        {
+          "name": "G",
+          "seats": 9
+        },
+        {
+          "name": "H",
+          "seats": 12
+        },
+        {
+          "name": "I",
+          "seats": 9
+        },
+        {
+          "name": "K",
+          "seats": 9
+        },
+        {
+          "name": "M",
+          "seats": 12
+        },
+        {
+          "name": "L",
+          "seats": 9
+        }
+      ]
+    }
+  ],
+  "show_times": [],
+  "ticket": [
+    {
+      "cinema": {
+        "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "name": "Galaxy Cinema",
+        "seats": [
+          {
+            "name": "A",
+            "seats": 3
+          },
+          {
+            "name": "B",
+            "seats": 8
+          },
+          {
+            "name": "C",
+            "seats": 6
+          },
+          {
+            "name": "D",
+            "seats": 8
+          },
+          {
+            "name": "E",
+            "seats": 8
+          },
+          {
+            "name": "F",
+            "seats": 6
+          },
+          {
+            "name": "G",
+            "seats": 9
+          },
+          {
+            "name": "H",
+            "seats": 12
+          },
+          {
+            "name": "I",
+            "seats": 9
+          },
+          {
+            "name": "K",
+            "seats": 9
+          },
+          {
+            "name": "M",
+            "seats": 12
+          },
+          {
+            "name": "L",
+            "seats": 9
+          }
+        ]
+      },
+      "date": {
+        "id": "263897dc-e196-464d-ba24-c5a281e32d03",
+        "date": "Thu Nov 24 2022 23:25:02 GMT-0500 (Eastern Standard Time)",
+        "day": 24
+      },
+      "time": {
+        "id": "1cc9e49a-95c8-4061-aa80-445e0b17dda9",
+        "time": "2022-11-28T21:59:18.897Z",
+        "hours": 21,
+        "minute": 59,
+        "type": "2D",
+        "movieId": "tt11564570",
+        "cinameId": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "date": "263897dc-e196-464d-ba24-c5a281e32d03"
+      },
+      "selectedSeats": [
+        {
+          "name": "B",
+          "position": 3,
+          "type": 1
+        },
+        {
+          "name": "B",
+          "position": 4,
+          "type": 3
+        }
+      ],
+      "movie": {
+        "id": "tt11564570",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+        "title": "Glass Onion: A Knives Out Mystery (2022)"
+      },
+      "total": 49,
+      "extra": [
+        {
+          "title": "Coca",
+          "price": 4,
+          "image": 6,
+          "quantity": 1
+        },
+        {
+          "title": "Popcorn",
+          "price": 5,
+          "image": 9,
+          "quantity": 1
+        }
+      ],
+      "id": "dbe1caeb-19d8-4b14-9578-552d8c3ba45f",
+      "address": "",
+      "desc": "",
+      "userId": 1,
+      "createdAt": 1669350351029
+    },
+    {
+      "cinema": {
+        "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "name": "Galaxy Cinema",
+        "seats": [
+          {
+            "name": "A",
+            "seats": 3
+          },
+          {
+            "name": "B",
+            "seats": 8
+          },
+          {
+            "name": "C",
+            "seats": 6
+          },
+          {
+            "name": "D",
+            "seats": 8
+          },
+          {
+            "name": "E",
+            "seats": 8
+          },
+          {
+            "name": "F",
+            "seats": 6
+          },
+          {
+            "name": "G",
+            "seats": 9
+          },
+          {
+            "name": "H",
+            "seats": 12
+          },
+          {
+            "name": "I",
+            "seats": 9
+          },
+          {
+            "name": "K",
+            "seats": 9
+          },
+          {
+            "name": "M",
+            "seats": 12
+          },
+          {
+            "name": "L",
+            "seats": 9
+          }
+        ]
+      },
+      "date": {
+        "id": "f052ed6d-4926-4495-a269-5d9fe09de698",
+        "date": "Fri Nov 25 2022 02:24:09 GMT-0500 (Eastern Standard Time)",
+        "day": 25
+      },
+      "time": {
+        "id": "e5458bf3-5509-4268-84ac-28f8a8d26a5b",
+        "time": "2022-11-26T16:59:35.957Z",
+        "hours": 16,
+        "minute": 59,
+        "type": "2D",
+        "movieId": "tt11564570",
+        "cinameId": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "date": "f052ed6d-4926-4495-a269-5d9fe09de698"
+      },
+      "selectedSeats": [
+        {
+          "name": "H",
+          "position": 1,
+          "type": 3
+        },
+        {
+          "name": "H",
+          "position": 2,
+          "type": 3
+        }
+      ],
+      "movie": {
+        "id": "tt11564570",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+        "title": "Glass Onion: A Knives Out Mystery (2022)"
+      },
+      "total": 78,
+      "extra": [
+        {
+          "title": "Coca",
+          "price": 4,
+          "image": 6,
+          "quantity": 2
+        },
+        {
+          "title": "Popcorn",
+          "price": 5,
+          "image": 9,
+          "quantity": 2
+        }
+      ],
+      "id": "3253305c-34dd-4e28-bffd-5a5df617f54b",
+      "address": "",
+      "desc": "",
+      "userId": 1,
+      "createdAt": 1669361119118
+    },
+    {
+      "cinema": {
+        "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "name": "Galaxy Cinema",
+        "seats": [
+          {
+            "name": "A",
+            "seats": 3
+          },
+          {
+            "name": "B",
+            "seats": 8
+          },
+          {
+            "name": "C",
+            "seats": 6
+          },
+          {
+            "name": "D",
+            "seats": 8
+          },
+          {
+            "name": "E",
+            "seats": 8
+          },
+          {
+            "name": "F",
+            "seats": 6
+          },
+          {
+            "name": "G",
+            "seats": 9
+          },
+          {
+            "name": "H",
+            "seats": 12
+          },
+          {
+            "name": "I",
+            "seats": 9
+          },
+          {
+            "name": "K",
+            "seats": 9
+          },
+          {
+            "name": "M",
+            "seats": 12
+          },
+          {
+            "name": "L",
+            "seats": 9
+          }
+        ]
+      },
+      "date": {
+        "id": "b0791c37-db1a-48a2-8572-7175f6d4283d",
+        "date": "Fri Nov 25 2022 02:32:37 GMT-0500 (Eastern Standard Time)",
+        "day": 25
+      },
+      "time": {
+        "id": "745932e9-a556-494a-9e07-db519833ea4e",
+        "time": "2022-11-27T02:09:30.612Z",
+        "hours": 14,
+        "minute": 9,
+        "type": "2D",
+        "movieId": "tt11564570",
+        "cinameId": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "date": "b0791c37-db1a-48a2-8572-7175f6d4283d"
+      },
+      "selectedSeats": [
+        {
+          "name": "E",
+          "position": 5,
+          "type": 3
+        },
+        {
+          "name": "E",
+          "position": 6,
+          "type": 1
+        }
+      ],
+      "movie": {
+        "id": "tt11564570",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+        "title": "Glass Onion: A Knives Out Mystery (2022)"
+      },
+      "total": 40,
+      "extra": [],
+      "id": "fa584c3b-2d97-4ccc-80c2-a0ace18860fb",
+      "address": "",
+      "desc": "",
+      "userId": 1,
+      "createdAt": 1669361594294
+    },
+    {
+      "cinema": {
+        "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "name": "Galaxy Cinema",
+        "seats": [
+          {
+            "name": "A",
+            "seats": 3
+          },
+          {
+            "name": "B",
+            "seats": 8
+          },
+          {
+            "name": "C",
+            "seats": 6
+          },
+          {
+            "name": "D",
+            "seats": 8
+          },
+          {
+            "name": "E",
+            "seats": 8
+          },
+          {
+            "name": "F",
+            "seats": 6
+          },
+          {
+            "name": "G",
+            "seats": 9
+          },
+          {
+            "name": "H",
+            "seats": 12
+          },
+          {
+            "name": "I",
+            "seats": 9
+          },
+          {
+            "name": "K",
+            "seats": 9
+          },
+          {
+            "name": "M",
+            "seats": 12
+          },
+          {
+            "name": "L",
+            "seats": 9
+          }
+        ]
+      },
+      "date": {
+        "id": "54786723-353e-467e-ae42-610264d050d6",
+        "date": "Fri Nov 25 2022 02:39:15 GMT-0500 (Eastern Standard Time)",
+        "day": 25
+      },
+      "time": {
+        "id": "535a1646-b4d0-4164-8b41-f6e016c0f642",
+        "time": "2022-11-26T01:09:18.175Z",
+        "hours": 13,
+        "minute": 9,
+        "type": "2D",
+        "movieId": "tt11564570",
+        "cinameId": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "date": "undefined"
+      },
+      "selectedSeats": [
+        {
+          "name": "B",
+          "position": 1,
+          "type": 3
+        },
+        {
+          "name": "B",
+          "position": 2,
+          "type": 3
+        }
+      ],
+      "movie": {
+        "id": "tt11564570",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+        "title": "Glass Onion: A Knives Out Mystery (2022)"
+      },
+      "total": 60,
+      "extra": [],
+      "id": "3386996f-0ba7-43e2-a092-082db1e35c79",
+      "address": "",
+      "desc": "",
+      "userId": 1,
+      "createdAt": 1669361990460
+    },
+    {
+      "cinema": {
+        "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "name": "Galaxy Cinema",
+        "seats": [
+          {
+            "name": "A",
+            "seats": 3
+          },
+          {
+            "name": "B",
+            "seats": 8
+          },
+          {
+            "name": "C",
+            "seats": 6
+          },
+          {
+            "name": "D",
+            "seats": 8
+          },
+          {
+            "name": "E",
+            "seats": 8
+          },
+          {
+            "name": "F",
+            "seats": 6
+          },
+          {
+            "name": "G",
+            "seats": 9
+          },
+          {
+            "name": "H",
+            "seats": 12
+          },
+          {
+            "name": "I",
+            "seats": 9
+          },
+          {
+            "name": "K",
+            "seats": 9
+          },
+          {
+            "name": "M",
+            "seats": 12
+          },
+          {
+            "name": "L",
+            "seats": 9
+          }
+        ]
+      },
+      "date": {
+        "id": "54786723-353e-467e-ae42-610264d050d6",
+        "date": "Fri Nov 25 2022 02:39:15 GMT-0500 (Eastern Standard Time)",
+        "day": 25
+      },
+      "time": {
+        "id": "66d6ce96-111e-471d-a318-7358e47ec1bb",
+        "time": "2022-11-25T15:35:30.465Z",
+        "hours": 15,
+        "minute": 35,
+        "type": "2D",
+        "movieId": "tt11564570",
+        "cinameId": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "date": "54786723-353e-467e-ae42-610264d050d6"
+      },
+      "selectedSeats": [
+        {
+          "name": "E",
+          "position": 6,
+          "type": 3
+        },
+        {
+          "name": "E",
+          "position": 7,
+          "type": 1
+        }
+      ],
+      "movie": {
+        "id": "tt11564570",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+        "title": "Glass Onion: A Knives Out Mystery (2022)"
+      },
+      "total": 58,
+      "extra": [
+        {
+          "title": "Coca",
+          "price": 4,
+          "image": 6,
+          "quantity": 2
+        },
+        {
+          "title": "Popcorn",
+          "price": 5,
+          "image": 9,
+          "quantity": 2
+        }
+      ],
+      "id": "59624225-49ff-463e-b840-db6a69852f4a",
+      "address": "",
+      "desc": "",
+      "userId": 1,
+      "createdAt": 1669362178722
+    },
+    {
+      "cinema": {
+        "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "name": "Galaxy Cinema",
+        "seats": [
+          {
+            "name": "A",
+            "seats": 3
+          },
+          {
+            "name": "B",
+            "seats": 8
+          },
+          {
+            "name": "C",
+            "seats": 6
+          },
+          {
+            "name": "D",
+            "seats": 8
+          },
+          {
+            "name": "E",
+            "seats": 8
+          },
+          {
+            "name": "F",
+            "seats": 6
+          },
+          {
+            "name": "G",
+            "seats": 9
+          },
+          {
+            "name": "H",
+            "seats": 12
+          },
+          {
+            "name": "I",
+            "seats": 9
+          },
+          {
+            "name": "K",
+            "seats": 9
+          },
+          {
+            "name": "M",
+            "seats": 12
+          },
+          {
+            "name": "L",
+            "seats": 9
+          }
+        ]
+      },
+      "date": {
+        "id": "48c38cde-ec1e-4d68-8a54-954fb56b28ad",
+        "date": "Fri Nov 25 2022 02:44:42 GMT-0500 (Eastern Standard Time)",
+        "day": 25
+      },
+      "time": {
+        "id": "1f8bd08c-660c-4678-baf5-4b1fdcf0d5e1",
+        "time": "2022-11-28T02:38:35.386Z",
+        "hours": 14,
+        "minute": 38,
+        "type": "2D",
+        "movieId": "tt14444726",
+        "cinameId": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "date": "48c38cde-ec1e-4d68-8a54-954fb56b28ad"
+      },
+      "selectedSeats": [
+        {
+          "name": "C",
+          "position": 4,
+          "type": 1
+        },
+        {
+          "name": "C",
+          "position": 5,
+          "type": 3
+        }
+      ],
+      "movie": {
+        "id": "tt14444726",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzBlMGQ3OGItOGM3My00YzZhLTgyNDMtMTA0MTBkZjExNWU1XkEyXkFqcGdeQWFybm8@._V1_.jpg",
+        "title": "Tár (2022)"
+      },
+      "total": 44,
+      "extra": [
+        {
+          "title": "Coca",
+          "price": 4,
+          "image": 6,
+          "quantity": 1
+        }
+      ],
+      "id": "a0466d08-23e5-4719-b86d-350af596df89",
+      "address": "",
+      "desc": "",
+      "userId": 1,
+      "createdAt": 1669362315349
+    },
+    {
+      "cinema": {
+        "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "name": "Galaxy Cinema",
+        "seats": [
+          {
+            "name": "A",
+            "seats": 3
+          },
+          {
+            "name": "B",
+            "seats": 8
+          },
+          {
+            "name": "C",
+            "seats": 6
+          },
+          {
+            "name": "D",
+            "seats": 8
+          },
+          {
+            "name": "E",
+            "seats": 8
+          },
+          {
+            "name": "F",
+            "seats": 6
+          },
+          {
+            "name": "G",
+            "seats": 9
+          },
+          {
+            "name": "H",
+            "seats": 12
+          },
+          {
+            "name": "I",
+            "seats": 9
+          },
+          {
+            "name": "K",
+            "seats": 9
+          },
+          {
+            "name": "M",
+            "seats": 12
+          },
+          {
+            "name": "L",
+            "seats": 9
+          }
+        ]
+      },
+      "date": {
+        "id": "10b804ab-ff28-4aa3-88c1-0dc5b3d93deb",
+        "date": "Fri Nov 25 2022 02:49:22 GMT-0500 (Eastern Standard Time)",
+        "day": 25
+      },
+      "time": {
+        "id": "d26540c5-7907-4921-8c8d-358ba1a17f54",
+        "time": "2022-11-26T10:39:31.433Z",
+        "hours": 10,
+        "minute": 39,
+        "type": "2D",
+        "movieId": "tt14109724",
+        "cinameId": "undefined",
+        "date": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2"
+      },
+      "selectedSeats": [
+        {
+          "name": "A",
+          "position": 1,
+          "type": 1
+        },
+        {
+          "name": "A",
+          "position": 2,
+          "type": 3
+        }
+      ],
+      "movie": {
+        "id": "tt14109724",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTIwODNkMzgtNzlmOS00NTAyLWEzMmYtZjQ3YzgyZmMwY2JlXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+        "title": "Ticket to Paradise (2022)"
+      },
+      "total": 58,
+      "extra": [
+        {
+          "title": "Coca",
+          "price": 4,
+          "image": 6,
+          "quantity": 2
+        },
+        {
+          "title": "Popcorn",
+          "price": 5,
+          "image": 9,
+          "quantity": 2
+        }
+      ],
+      "id": "d78ed96b-646e-4e2c-8c94-8e17f1d47deb",
+      "address": "",
+      "desc": "",
+      "userId": 1,
+      "createdAt": 1669362596506
+    },
+    {
+      "cinema": {
+        "id": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "name": "Galaxy Cinema",
+        "seats": [
+          {
+            "name": "A",
+            "seats": 3
+          },
+          {
+            "name": "B",
+            "seats": 8
+          },
+          {
+            "name": "C",
+            "seats": 6
+          },
+          {
+            "name": "D",
+            "seats": 8
+          },
+          {
+            "name": "E",
+            "seats": 8
+          },
+          {
+            "name": "F",
+            "seats": 6
+          },
+          {
+            "name": "G",
+            "seats": 9
+          },
+          {
+            "name": "H",
+            "seats": 12
+          },
+          {
+            "name": "I",
+            "seats": 9
+          },
+          {
+            "name": "K",
+            "seats": 9
+          },
+          {
+            "name": "M",
+            "seats": 12
+          },
+          {
+            "name": "L",
+            "seats": 9
+          }
+        ]
+      },
+      "date": {
+        "id": "fa835b42-311d-4806-9d4b-3c5b5ec79854",
+        "date": "Fri Nov 25 2022 02:59:04 GMT-0500 (Eastern Standard Time)",
+        "day": 25
+      },
+      "time": {
+        "id": "a28b2977-78ff-4b0b-9b1b-b52eaa62e285",
+        "time": "2022-11-28T21:25:31.754Z",
+        "hours": 21,
+        "minute": 25,
+        "type": "2D",
+        "movieId": "tt11564570",
+        "cinameId": "77487ef0-c3ed-40cb-97fa-7bf0836d35e2",
+        "date": "fa835b42-311d-4806-9d4b-3c5b5ec79854"
+      },
+      "selectedSeats": [
+        {
+          "name": "B",
+          "position": 5,
+          "type": 3
+        },
+        {
+          "name": "B",
+          "position": 6,
+          "type": 3
+        }
+      ],
+      "movie": {
+        "id": "tt11564570",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+        "title": "Glass Onion: A Knives Out Mystery (2022)"
+      },
+      "total": 60,
+      "extra": [],
+      "id": "b64a75a3-e9bc-4c9e-ae4d-2c1d580a63ff",
+      "address": "",
+      "desc": "",
+      "userId": 1,
+      "createdAt": 1669363193754
+    }
+  ],
+  "transaction": [
+    {
+      "id": "09dc846c-a9e8-469a-825e-9af9cc468ffa",
+      "items": {
+        "movie": {
+          "id": "tt11564570",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+          "title": "Glass Onion: A Knives Out Mystery (2022)"
+        },
+        "extras": [
+          {
+            "title": "Coca",
+            "price": 4,
+            "image": 6,
+            "quantity": 1
+          },
+          {
+            "title": "Popcorn",
+            "price": 5,
+            "image": 9,
+            "quantity": 1
+          }
+        ],
+        "amount": 49,
+        "date": 1669350351059
+      },
+      "userId": 1,
+      "createdAt": 1669350351073
+    },
+    {
+      "id": "1ebe5adc-7138-4f0b-a3ba-358fbd6673ca",
+      "items": {
+        "movie": {
+          "id": "tt11564570",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+          "title": "Glass Onion: A Knives Out Mystery (2022)"
+        },
+        "extras": [],
+        "amount": 60,
+        "date": 1669361991504
+      },
+      "userId": 1,
+      "createdAt": 1669361990538
+    },
+    {
+      "id": "3c018cd1-c858-42fa-99e5-9fe2d4233e5a",
+      "items": {
+        "movie": {
+          "id": "tt11564570",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+          "title": "Glass Onion: A Knives Out Mystery (2022)"
+        },
+        "extras": [
+          {
+            "title": "Coca",
+            "price": 4,
+            "image": 6,
+            "quantity": 2
+          },
+          {
+            "title": "Popcorn",
+            "price": 5,
+            "image": 9,
+            "quantity": 2
+          }
+        ],
+        "amount": 58,
+        "date": 1669362180676
+      },
+      "userId": 1,
+      "createdAt": 1669362179805
+    },
+    {
+      "id": "5df67378-0faf-4edf-b118-093e12ff37d7",
+      "items": {
+        "movie": {
+          "id": "tt14444726",
+          "image": "https://m.media-amazon.com/images/M/MV5BYzBlMGQ3OGItOGM3My00YzZhLTgyNDMtMTA0MTBkZjExNWU1XkEyXkFqcGdeQWFybm8@._V1_.jpg",
+          "title": "Tár (2022)"
+        },
+        "extras": [
+          {
+            "title": "Coca",
+            "price": 4,
+            "image": 6,
+            "quantity": 1
+          }
+        ],
+        "amount": 44,
+        "date": 1669362316421
+      },
+      "userId": 1,
+      "createdAt": 1669362315454
+    },
+    {
+      "id": "1ad7bc8d-c37e-429d-afc7-cd323e564bd0",
+      "items": {
+        "movie": {
+          "id": "tt14109724",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTIwODNkMzgtNzlmOS00NTAyLWEzMmYtZjQ3YzgyZmMwY2JlXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+          "title": "Ticket to Paradise (2022)"
+        },
+        "extras": [
+          {
+            "title": "Coca",
+            "price": 4,
+            "image": 6,
+            "quantity": 2
+          },
+          {
+            "title": "Popcorn",
+            "price": 5,
+            "image": 9,
+            "quantity": 2
+          }
+        ],
+        "amount": 58,
+        "date": 1669362597587
+      },
+      "userId": 1,
+      "createdAt": 1669362596621
+    },
+    {
+      "id": "529c4c4e-b530-4ff6-9dd7-19afdd6f79c3",
+      "items": {
+        "movie": {
+          "id": "tt11564570",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcwZDQ1NTYtMDk5NS00MmNjLWI0ZmUtNDAzYzAwNGU4MThmXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+          "title": "Glass Onion: A Knives Out Mystery (2022)"
+        },
+        "extras": [],
+        "amount": 60,
+        "date": 1669363196014
+      },
+      "userId": 1,
+      "createdAt": 1669363195125
+    }
+  ],
+  "notification": [
+    {
+      "id": "51038ed1-d962-4dc4-926a-0561966c35f9",
+      "userId": 1,
+      "type": "money",
+      "success": true,
+      "message": "You bank have discount $49",
+      "createdAt": 1669350351244
+    },
+    {
+      "id": "b07a44e3-0b25-40ec-ba59-11f45b101c96",
+      "userId": 1,
+      "type": "ticket",
+      "success": true,
+      "message": "You have booked an ticket of Glass Onion: A Knives Out Mystery (2022) successfully",
+      "createdAt": 1669350351253
+    },
+    {
+      "id": "bca5e612-b215-410d-849c-43c4d2fb9856",
+      "userId": 1,
+      "type": "money",
+      "success": true,
+      "message": "You bank have discount $60",
+      "createdAt": 1669361990558
+    },
+    {
+      "id": "cac2314b-1d84-430f-bf2c-41addc265c6a",
+      "userId": 1,
+      "type": "ticket",
+      "success": true,
+      "message": "You have booked an ticket of Glass Onion: A Knives Out Mystery (2022) successfully",
+      "createdAt": 1669361990605
+    },
+    {
+      "id": "f242950f-ea4f-4dca-adfa-d8eb2d0a3928",
+      "userId": 1,
+      "type": "money",
+      "success": true,
+      "message": "You bank have discount $58",
+      "createdAt": 1669362180193
+    },
+    {
+      "id": "03957552-588f-43be-a267-64bc346da329",
+      "userId": 1,
+      "type": "ticket",
+      "success": true,
+      "message": "You have booked an ticket of Glass Onion: A Knives Out Mystery (2022) successfully",
+      "createdAt": 1669362180381
+    },
+    {
+      "id": "5e50bbe3-580d-4568-8771-2f1f4153fa6e",
+      "userId": 1,
+      "type": "money",
+      "success": true,
+      "message": "You bank have discount $44",
+      "createdAt": 1669362315475
+    },
+    {
+      "id": "1802701a-fad7-4f54-b8be-6e011bcff5d0",
+      "userId": 1,
+      "type": "ticket",
+      "success": true,
+      "message": "You have booked an ticket of Tár (2022) successfully",
+      "createdAt": 1669362315517
+    },
+    {
+      "id": "ff96fbde-19f2-4416-9f63-b793d249c3e9",
+      "userId": 1,
+      "type": "money",
+      "success": true,
+      "message": "You bank have discount $58",
+      "createdAt": 1669362596645
+    },
+    {
+      "id": "8b0eb341-c71e-450c-9d6c-33ba395c0ed5",
+      "userId": 1,
+      "type": "ticket",
+      "success": true,
+      "message": "You have booked an ticket of Ticket to Paradise (2022) successfully",
+      "createdAt": 1669362596701
+    },
+    {
+      "id": "14fc823b-5b0d-4681-9e70-d2bf444eba87",
+      "userId": 1,
+      "type": "money",
+      "success": true,
+      "message": "You bank have discount $60",
+      "createdAt": 1669363195154
+    },
+    {
+      "id": "61d55e88-0ad9-49a4-96cd-4819c44a1067",
+      "userId": 1,
+      "type": "ticket",
+      "success": true,
+      "message": "You have booked an ticket of Glass Onion: A Knives Out Mystery (2022) successfully",
+      "createdAt": 1669363195581
+    }
+  ]
+}
